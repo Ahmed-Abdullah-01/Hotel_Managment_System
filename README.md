@@ -1,3 +1,1 @@
-HOTEL MANAGAMENT is the main file
-The main file contains the code for hotel management system, and it needs to add the rooms file to the location where the main file will reside because file handling is used in the main code, 
-and the main code will look for rooms.txt. If it doesn't find rooms.txt, an error will occur.
+The main file, HOTEL MANAGEMENT 🏨, contains the core code for the hotel management system. This main file requires the addition of a file named rooms.txt 📄 in the same directory where the main file resides. The main code includes file handling operations and will look for rooms.txt to retrieve necessary data about the hotel rooms 🛏️. If rooms.txt is not found, the program will encounter an error ⚠️, disrupting the system’s functionality. Therefore, it’s crucial to ensure that rooms.txt is present in the specified location to maintain smooth operation of the hotel management system.
